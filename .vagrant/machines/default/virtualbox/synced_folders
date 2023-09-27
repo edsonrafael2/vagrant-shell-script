@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/edsonrafael/Documentos/workspace/devops/vagrant-shell-script/site","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/edsonrafael/Documentos/workspace/devops/vagrant-shell-script","disabled":false,"__vagrantfile":true}}}

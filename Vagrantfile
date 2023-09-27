@@ -5,7 +5,7 @@ Vagrant.configure("2") do |config|
 
 
   config.vm.provider "virtualbox" do |vm|
-    vm.name = "maquina-virtual-02"
+    vm.name = "vagrant-shell-script"
  end
 
   config.vm.network "forwarded_port", guest: 80, host: 8090
